@@ -1,0 +1,16 @@
+{
+  "name": "SkyHub Lua",
+  "icon": "icon.png",
+  "author": "su_",
+  "illustrate": "这是一条简介",
+  "tab": [
+    {
+      "name": "获取信息",
+      "data": "pu_info/do.lua"
+    },
+    {
+      "name": "获取信息",
+      "data": "Swipe_in_get/12.lua"
+    }
+  ]
+}
